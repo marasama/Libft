@@ -1,1 +1,0 @@
-Library that accumulation some of the functions that we wrote in Ecole 42
